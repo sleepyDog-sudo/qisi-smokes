@@ -1,0 +1,26 @@
+.gradle/
+build/
+out/
+run/
+*.log
+*.tmp
+*.class
+
+# IDE
+.idea/
+.vscode/
+*.iml
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Minecraft local files
+.minecraft/
+mods/
+config/
+logs/
+saves/
+crash-reports/
+
+# Keep release jars only if intentionally added
